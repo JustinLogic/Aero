@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Aero">
+</Property><Property Name="Solution File" Value="D:\Documents\Visual Studio 2005\Projects\Aero\Aero.sln">
+</Property><Property Name="User Options File" Value="D:\Documents\Visual Studio 2005\Projects\Aero\Aero.suo">
+</Property><Property Name="Date" Value="Monday, April 18, 2011">
+</Property><Property Name="Time" Value="12:34 PM">
+</Property><Property Name="Log Number" Value="6">
+</Property><Property Name="Solution" Value="Aero">
+</Property><Property Name="Solution File" Value="D:\Documents\Visual Studio 2005\Projects\Aero\Aero.sln">
+</Property><Property Name="Date" Value="Monday, April 18, 2011">
+</Property><Property Name="Time" Value="12:34:57 PM">
+</Property><Property Name="Log Number" Value="6">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Aero.sln" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Aero.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Aero.suo" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Aero.suo">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero.csproj" Description="Project file successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Aero.csproj">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero.csproj.user" Description="Project user file successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Aero.csproj.user">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Animation\BulletExplosionAnimation.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Animation\BulletExplosionAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ScoreSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ScoreSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\BeamCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Weapons\BeamCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Animation\BigExplosionAnimation.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Animation\BigExplosionAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\EnergyBeam.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\EnergyBeam.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\BossThree.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\BossThree.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\FragmentationBomb.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\FragmentationBomb.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\LargeExplosionParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ParticleSystem\LargeExplosionParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\LargeExplosionSmokeParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ParticleSystem\LargeExplosionSmokeParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Levels\LevelFour.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Levels\LevelFour.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\ObjectPiece.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\ObjectPiece.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\BulletExplosionParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ParticleSystem\BulletExplosionParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\AeroObject.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\AeroObject.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\RevivalParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ParticleSystem\RevivalParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\BackgroundScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Screens\BackgroundScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Boss.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\Boss.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\BossOne.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\BossOne.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\BossTwo.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\BossTwo.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Cruiser.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\Cruiser.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Enemy.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\Enemy.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\ExplosionParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ParticleSystem\ExplosionParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\ExplosionSmokeParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ParticleSystem\ExplosionSmokeParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Fighter.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\Fighter.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Levels\Level.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Levels\Level.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Levels\LevelOne.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Levels\LevelOne.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Levels\LevelThree.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Levels\LevelThree.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Levels\LevelTwo.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Levels\LevelTwo.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\Particle.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ParticleSystem\Particle.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\ParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ParticleSystem\ParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\PowerUpInvincibility.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\PowerUpInvincibility.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Kamacazie.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\Kamacazie.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Animation\LargeExplosionAnimation.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Animation\LargeExplosionAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\GamePlayScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Screens\GamePlayScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Enums.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Enums.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\LoadingScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Screens\LoadingScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\FramentationBombCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Weapons\FramentationBombCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\PrimaryWeapon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Weapons\PrimaryWeapon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\MenuEntry.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Screens\MenuEntry.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\MenuScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Screens\MenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\MessageBoxScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Screens\MessageBoxScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\PauseScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Screens\PauseScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Player.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Player.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\PlayerIndexEventArgs.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Screens\PlayerIndexEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\PowerUp.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\PowerUp.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Program.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Program.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="AeroGame.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\AeroGame.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\PowerUpQuintuCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\PowerUpQuintuCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\PowerUpRapidFire.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\PowerUpRapidFire.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\QuintuCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Weapons\QuintuCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Animation\ReviveAnimation.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Animation\ReviveAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Round.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\Round.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ScreenManager\GameScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ScreenManager\GameScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ScreenManager\InputState.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ScreenManager\InputState.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ScreenManager\ScreenManager.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\ScreenManager\ScreenManager.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\ShopScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Screens\ShopScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Animation\SmallExplosionAnimation.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Animation\SmallExplosionAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\SecondaryWeapon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Weapons\SecondaryWeapon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\StandardCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Weapons\StandardCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\TitleScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Screens\TitleScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\PowerUpTriCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameObjects\PowerUpTriCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\TriCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Weapons\TriCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero_TemporaryKey.pfx" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Aero_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Properties\Settings.settings" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Game.ico" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\Game.ico">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameThumbnail.png" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup5\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Aero" Source="Aero.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Aero.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="Aero.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="GameFont.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="BulletHit.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="EnemyLaser.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="explosion.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="PlayerLaser.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="SoundBackground.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroBoss1.PNG" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroBoss2.PNG" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroEnemy.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroExplosion.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroFighter.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroGameBackground.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroKamacazie.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroPlayer.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroPlayerInvert.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroPowerUp_Invincibility.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroPowerUp_QuintuCannon.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroPowerUp_RapidFire.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroPowerUp_TriCannon.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroRevive.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroRound.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AeroTitle.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Blank.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss1Piece1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss1Piece2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss1Piece3.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss1Piece4.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss1Piece5.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss1Piece6.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss1Piece7.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss1Piece8.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss2Piece1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss2Piece2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss2Piece3.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss2Piece4.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss2Piece5.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss2Piece6.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss2Piece7.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss2Piece8.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss3.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss3Piece1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss3Piece2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss3Piece3.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss3Piece4.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss3Piece5.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss3Piece6.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss3Piece7.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Boss3Piece8.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="explosion.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Gradient.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="LaserBeam.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Particle16.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Shield32.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Shot2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="smoke.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="SpecialGuage.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="SpecialGuageFill.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Sword32.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="AeroContent" Source="Content\AeroContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

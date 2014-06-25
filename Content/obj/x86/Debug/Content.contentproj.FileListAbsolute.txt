@@ -1,0 +1,6 @@
+C:\Users\Justin\Desktop\Aero\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jcatramb\My Documents\Aero\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Aero\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jcatramb\Desktop\Aero\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\Content\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,336 @@
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroGameBackground.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroRound.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroRevive.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroExplosion.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPlayer.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroEnemy.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroBoss1.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_Invincibility.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_QuintuCannon.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_RapidFire.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_TriCannon.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroBoss2.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\Shot2.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\Blank.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\Gradient.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\Shield32.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\Sword32.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroTitle.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroFighter.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPlayerInvert.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Aero.exe
+C:\Users\Justin\Desktop\Aero\bin\x86\Debug\Aero.pdb
+C:\Users\Justin\Desktop\Aero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\Desktop\Aero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Justin\Desktop\Aero\obj\x86\Debug\Aero.exe
+C:\Users\Justin\Desktop\Aero\obj\x86\Debug\Aero.pdb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroGameBackground.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroRound.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroRevive.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroExplosion.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroPlayer.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroEnemy.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroBoss1.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_Invincibility.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_QuintuCannon.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_RapidFire.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_TriCannon.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroBoss2.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\Shot2.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\Blank.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\Gradient.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\Shield32.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\Sword32.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroTitle.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroFighter.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroPlayerInvert.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Aero.exe
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Aero.pdb
+C:\Documents and Settings\jcatramb\My Documents\Aero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jcatramb\My Documents\Aero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\jcatramb\My Documents\Aero\obj\x86\Debug\Aero.exe
+C:\Documents and Settings\jcatramb\My Documents\Aero\obj\x86\Debug\Aero.pdb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroGameBackground.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroRound.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroRevive.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroExplosion.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPlayer.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroEnemy.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroBoss1.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_Invincibility.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_QuintuCannon.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_RapidFire.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_TriCannon.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroBoss2.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Shot2.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Blank.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Gradient.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Shield32.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Sword32.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroTitle.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroFighter.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPlayerInvert.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\explosion.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\smoke.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Particle16.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Aero.exe.manifest
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Aero.application
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Aero.exe
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Aero.pdb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\Aero.exe.manifest
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\Aero.application
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\Aero.exe
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\Aero.pdb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroGameBackground.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroRound.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroRevive.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroExplosion.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroPlayer.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroEnemy.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroBoss1.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_Invincibility.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_QuintuCannon.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_RapidFire.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_TriCannon.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroBoss2.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\Shot2.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\Blank.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\Gradient.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\Shield32.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\Sword32.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroTitle.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroFighter.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\AeroPlayerInvert.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\explosion.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\smoke.xnb
+F:\Aero\bin\x86\Debug\Content\Textures\Particle16.xnb
+F:\Aero\bin\x86\Debug\Content\Fonts\GameFont.xnb
+F:\Aero\bin\x86\Debug\Aero.exe.manifest
+F:\Aero\bin\x86\Debug\Aero.application
+F:\Aero\bin\x86\Debug\Aero.exe
+F:\Aero\bin\x86\Debug\Aero.pdb
+F:\Aero\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Aero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Aero\obj\x86\Debug\Aero.exe.manifest
+F:\Aero\obj\x86\Debug\Aero.application
+F:\Aero\obj\x86\Debug\Aero.exe
+F:\Aero\obj\x86\Debug\Aero.pdb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroGameBackground.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroRound.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroRevive.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroExplosion.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPlayer.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroEnemy.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroBoss1.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_Invincibility.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_QuintuCannon.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_RapidFire.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_TriCannon.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroBoss2.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\Shot2.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\Blank.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\Gradient.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\Shield32.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\Sword32.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroTitle.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroFighter.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\AeroPlayerInvert.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\explosion.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\smoke.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Textures\Particle16.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Aero.exe.manifest
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Aero.application
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Aero.exe
+C:\Documents and Settings\jcatramb\Desktop\Aero\bin\x86\Debug\Aero.pdb
+C:\Documents and Settings\jcatramb\Desktop\Aero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jcatramb\Desktop\Aero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\jcatramb\Desktop\Aero\obj\x86\Debug\Aero.exe.manifest
+C:\Documents and Settings\jcatramb\Desktop\Aero\obj\x86\Debug\Aero.application
+C:\Documents and Settings\jcatramb\Desktop\Aero\obj\x86\Debug\Aero.exe
+C:\Documents and Settings\jcatramb\Desktop\Aero\obj\x86\Debug\Aero.pdb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroKamacazie.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\EnemyLaser.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\PlayerLaser.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\BulletHit.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\SoundBackground.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\explosion.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\smoke.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\Particle16.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Textures\AeroKamacazie.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Sounds\EnemyLaser.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Sounds\PlayerLaser.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Sounds\BulletHit.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Content\Sounds\SoundBackground.xnb
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Aero.exe.manifest
+C:\Documents and Settings\jcatramb\My Documents\Aero\bin\x86\Debug\Aero.application
+C:\Documents and Settings\jcatramb\My Documents\Aero\obj\x86\Debug\Aero.exe.manifest
+C:\Documents and Settings\jcatramb\My Documents\Aero\obj\x86\Debug\Aero.application
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\SpecialGuage.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\SpecialGuageFill.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece1.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece2.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece3.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece4.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece5.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece6.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece7.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece8.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece1.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece2.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece3.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece4.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece5.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece6.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece7.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece8.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroRound.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroRevive.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroExplosion.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPlayer.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroEnemy.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroBoss1.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_Invincibility.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_QuintuCannon.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_RapidFire.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_TriCannon.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroBoss2.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Shot2.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Blank.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Gradient.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Shield32.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Sword32.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroTitle.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroFighter.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPlayerInvert.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\explosion.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\smoke.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Particle16.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroKamacazie.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\AeroGameBackground.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\SpecialGuage.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\SpecialGuageFill.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece1.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece2.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece3.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece4.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece5.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece6.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece7.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss1Piece8.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece1.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece2.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece3.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece4.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece5.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece6.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece7.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss2Piece8.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Sounds\EnemyLaser.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Sounds\PlayerLaser.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Sounds\BulletHit.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Sounds\SoundBackground.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Aero.exe.manifest
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Aero.application
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Aero.exe
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Aero.pdb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\obj\x86\Debug\Aero.exe.manifest
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\obj\x86\Debug\Aero.application
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\obj\x86\Debug\Aero.exe
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\obj\x86\Debug\Aero.pdb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece1.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece2.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece3.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece4.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece5.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece6.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece7.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece8.xnb
+C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\LaserBeam.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece1.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece2.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece3.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece4.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece5.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece6.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece7.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\Boss3Piece8.xnb
+C:\Documents and Settings\Justin\Desktop\Projects\Aero\bin\x86\Debug\Content\Textures\LaserBeam.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroRound.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroRevive.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroExplosion.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_Invincibility.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_QuintuCannon.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_RapidFire.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_TriCannon.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Shot2.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Blank.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Gradient.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Shield32.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Sword32.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroTitle.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\explosion.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Particle16.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroGameBackground.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\SpecialGuage.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\SpecialGuageFill.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\LaserBeam.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Missle.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\sheild.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\ShadowBoss.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\FatBoss.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\fetus.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroPowerUp_Shop.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\FatBoss2.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\ArmyBoss.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Cruiser.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\KamikazeBoss.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\TwinBossCenter.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\TwinBossLeft.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\TwinBossRight.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Kamikaze.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\ArtilleryBoss.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Fighter.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\Player.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\PlayerGlow.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\backgroundBack.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\backgroundFront.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\sheild2.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\smoke.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\AeroTitleCross.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Textures\controls.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Fonts\GameFont.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\explosion.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\BulletHit.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\SoundBackground.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\EnemyLaser.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\PowerupKill.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\PowerupPickup.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\PlayerLaser.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\PlayerHit.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\PlayerKill.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\Bomb.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Content\Sounds\AeroTheme1.xnb
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Aero.exe.manifest
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Aero.application
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Aero.exe
+D:\Documents\Visual Studio 2005\Projects\Aero\bin\x86\Debug\Aero.pdb
+D:\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\Aero.exe.manifest
+D:\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\Aero.application
+D:\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\Aero.exe
+D:\Documents\Visual Studio 2005\Projects\Aero\obj\x86\Debug\Aero.pdb

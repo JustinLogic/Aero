@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Aero">
+</Property><Property Name="Solution File" Value="D:\Documents\Visual Studio 2005\Projects\Aero\Aero.sln">
+</Property><Property Name="User Options File" Value="D:\Documents\Visual Studio 2005\Projects\Aero\Aero.suo">
+</Property><Property Name="Date" Value="Thursday, June 24, 2010">
+</Property><Property Name="Time" Value="12:11 PM">
+</Property><Property Name="Log Number" Value="5">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Aero.sln" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Aero.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Aero.suo" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Aero.suo">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero.csproj" Description="Project file successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Aero.csproj">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero.csproj.user" Description="Project user file successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Aero.csproj.user">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Animation\BulletExplosionAnimation.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Animation\BulletExplosionAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ScoreSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ScoreSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\BeamCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Weapons\BeamCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Animation\BigExplosionAnimation.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Animation\BigExplosionAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\EnergyBeam.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\EnergyBeam.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\BossThree.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\BossThree.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\FragmentationBomb.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\FragmentationBomb.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\LargeExplosionParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ParticleSystem\LargeExplosionParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\LargeExplosionSmokeParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ParticleSystem\LargeExplosionSmokeParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Levels\LevelFour.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Levels\LevelFour.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\ObjectPiece.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\ObjectPiece.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\BulletExplosionParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ParticleSystem\BulletExplosionParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\AeroObject.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\AeroObject.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\RevivalParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ParticleSystem\RevivalParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\BackgroundScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Screens\BackgroundScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Boss.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\Boss.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\BossOne.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\BossOne.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\BossTwo.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\BossTwo.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Cruiser.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\Cruiser.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Enemy.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\Enemy.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\ExplosionParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ParticleSystem\ExplosionParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\ExplosionSmokeParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ParticleSystem\ExplosionSmokeParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Fighter.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\Fighter.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Levels\Level.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Levels\Level.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Levels\LevelOne.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Levels\LevelOne.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Levels\LevelThree.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Levels\LevelThree.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Levels\LevelTwo.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Levels\LevelTwo.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\Particle.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ParticleSystem\Particle.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ParticleSystem\ParticleSystem.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ParticleSystem\ParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\PowerUpInvincibility.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\PowerUpInvincibility.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Kamacazie.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\Kamacazie.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Animation\LargeExplosionAnimation.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Animation\LargeExplosionAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\GamePlayScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Screens\GamePlayScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Enums.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Enums.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\LoadingScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Screens\LoadingScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\FramentationBombCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Weapons\FramentationBombCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\PrimaryWeapon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Weapons\PrimaryWeapon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\MenuEntry.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Screens\MenuEntry.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\MenuScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Screens\MenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\MessageBoxScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Screens\MessageBoxScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\PauseScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Screens\PauseScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Player.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Player.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\PlayerIndexEventArgs.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Screens\PlayerIndexEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\PowerUp.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\PowerUp.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Program.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Program.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="AeroGame.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\AeroGame.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\PowerUpQuintuCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\PowerUpQuintuCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\PowerUpRapidFire.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\PowerUpRapidFire.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\QuintuCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Weapons\QuintuCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Animation\ReviveAnimation.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Animation\ReviveAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\Round.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\Round.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ScreenManager\GameScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ScreenManager\GameScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ScreenManager\InputState.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ScreenManager\InputState.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ScreenManager\ScreenManager.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\ScreenManager\ScreenManager.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\ShopScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Screens\ShopScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Animation\SmallExplosionAnimation.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Animation\SmallExplosionAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\SecondaryWeapon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Weapons\SecondaryWeapon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\StandardCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Weapons\StandardCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screens\TitleScreen.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Screens\TitleScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameObjects\PowerUpTriCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameObjects\PowerUpTriCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Weapons\TriCannon.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Weapons\TriCannon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero_TemporaryKey.pfx" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Aero_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Properties\Settings.settings" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Game.ico" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\Game.ico">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameThumbnail.png" Description="File successfully backed up as D:\Documents\Visual Studio 2005\Projects\Aero\Backup4\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Aero" Source="Aero.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="Aero" Source="Aero.csproj" Description="The project file 'D:\Documents\Visual Studio 2005\Projects\Aero\Aero.csproj' cannot be opened.&#xA;&#xA;The project type is not supported by this installation.">
+</Event><Event ErrorLevel="0" Project="" Source="Aero.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Aero.sln" Description="Converted">
+</Event></UpgradeLog>

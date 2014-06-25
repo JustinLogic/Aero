@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Aero">
+</Property><Property Name="Solution File" Value="C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Aero.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Aero.suo">
+</Property><Property Name="Date" Value="Wednesday, April 22, 2009">
+</Property><Property Name="Time" Value="14:13 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Aero.sln" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Aero.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Aero.suo" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Aero.suo">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero.csproj" Description="Project file successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Aero.csproj">
+</Event><Event ErrorLevel="0" Project="Aero" Source="BackgroundScreen.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\BackgroundScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Boss.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Boss.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Enemy.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Enemy.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Fighter.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Fighter.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="LargeExplodingAnimation.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\LargeExplodingAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GamePlayScreen.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\GamePlayScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Enums.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Enums.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="LoadingScreen.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\LoadingScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="MainWeapon.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\MainWeapon.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="MenuEntry.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\MenuEntry.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="MenuScreen.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\MenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="MessageBoxScreen.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\MessageBoxScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="PauseScreen.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\PauseScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Player.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Player.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="PlayerIndexEventArgs.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\PlayerIndexEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="PowerUp.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\PowerUp.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Program.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="AeroGame.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\AeroGame.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ReviveAnimation.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\ReviveAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Round.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Round.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Screen.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Screen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ScreenManager\GameScreen.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\ScreenManager\GameScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ScreenManager\InputState.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\ScreenManager\InputState.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ScreenManager\ScreenManager.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\ScreenManager\ScreenManager.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="ShopScreen.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\ShopScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="SmallExplodingAnimation.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\SmallExplodingAnimation.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="TitleScreen.cs" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\TitleScreen.cs">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Game.ico" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\Game.ico">
+</Event><Event ErrorLevel="0" Project="Aero" Source="GameThumbnail.png" Description="File successfully backed up as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\GameThumbnail.png">
+</Event><Event ErrorLevel="2" Project="Aero" Source="obj\HPD\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt" Description="Failed to backup file as C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Backup\obj\HPD\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt">
+</Event><Event ErrorLevel="0" Project="Aero" Source="Aero.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Aero" Source="Aero.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="Aero" Source="Aero.csproj" Description="The project file 'C:\Users\Justin\Documents\Visual Studio 2005\Projects\Aero\Aero.csproj' cannot be opened.&#xA;&#xA;The project type is not supported by this installation.">
+</Event><Event ErrorLevel="0" Project="" Source="Aero.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Aero.sln" Description="Converted">
+</Event></UpgradeLog>
